@@ -73,7 +73,5 @@ The dataset includes:
 ---
 
 ## 🖼 Dashboard Preview
-(Electric vehicle dashboard.jpg)
+([Electric vehicle dashboard.jpg](https://raw.githubusercontent.com/ankush9004/Electric-Vehicle-Analysis-Dashboard/refs/heads/main/Electric%20vehicle%20dashboard.jpg))
 
-```md
-![Electric Vehicle Dashboard](insert-your-image-link-here)
