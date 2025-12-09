@@ -73,7 +73,7 @@ The dataset includes:
 ---
 
 ## 🖼 Dashboard Preview
-(Add your dashboard image here)
+(Electric vehicle dashboard.jpg)
 
 ```md
 ![Electric Vehicle Dashboard](insert-your-image-link-here)
